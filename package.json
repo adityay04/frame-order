@@ -1,3 +1,8 @@
 {
-  "type": "module"
+  "name": "frame-order",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "sharp": "^0.34.0"
+  }
 }
